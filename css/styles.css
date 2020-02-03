@@ -1,0 +1,178 @@
+
+
+
+
+
+
+#title{
+  background-color: #ff4c68;
+  color:#fff;
+  margin-bottom: 0;
+
+}
+body{
+  font-family: "Montserrat";
+}
+
+.container-fluid{
+
+  padding: 5% 15% 0 10% ;
+ padding: 1660 855;
+}
+
+
+
+
+
+
+.nav-item,
+.nav-link{
+padding: 0 18px;
+font-size: 1.2rem;
+font-family: "Montserrat";
+
+
+}
+
+
+.navbar-brand{
+  font-size: 2.3rem;
+  font-family: 'Ubuntu';
+  font-weight: bold;
+}
+
+h1{
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+  font-weight: bold;
+}
+
+
+.iphdog{
+ /* transform: rotate(25deg); */
+ width: 500px;
+ height: 660px;
+
+
+}
+
+ .navbar{
+   padding-bottom:  4.5rem;
+ }
+
+
+/* downlolad buttons */
+
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+
+/* feautures */
+
+#features{
+padding: 9% 19%;
+
+}
+
+.feautured-divix{
+  text-align: center;
+  padding:5%;
+
+}
+h3{
+  font-family: "Montserrat";
+  font-size:1.5rem;
+}
+
+p{
+color: #8f8f8f;
+}
+
+
+.icon{
+  color:#ef8172;
+  margin-bottom:1rem;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+/* testimonials */
+
+
+
+#testimonials{
+
+
+  text-align: center;
+  background-color: #ef8172;
+color:#fff;
+
+
+}
+
+
+h2{
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5; /* spatii mai mari intre cuv  */
+
+
+}
+
+
+
+
+.testimonial-image{
+  width: 10%;
+   border-radius: 100%; /* o rotunjeste */
+   margin:20px;
+
+}
+
+.carousel-item{
+  padding: 9% 19%;
+}
+
+
+/* press section */
+
+
+#press{
+  background-color:#ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 15%;
+
+}
+
+
+
+#gol{
+  color:red;
+padding: 20px;
+width: 200px;
+height: 200px;
+}
+
+#cta{
+
+  background-color: #ff4c68;
+  padding: 90px;
+}
+
+.lastsection{
+  padding: 40px;
+  font-family: "Montserrat";
+  font-size: 2rem;
+  font-style: bold;
+  color: white;
+font-weight: bold;
+}
